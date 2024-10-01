@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, Welcome!
+My name is Ayush Roy. I am from Maharaja Surajmal Institute of Technology enrolled in B.Tech Electronics Engineering.🏫
+I have a huge instrest in web development and in coding👩‍💻! Currently learning JavaScript.
+
 
 <!--
 **roy-ayush22/roy-ayush22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
