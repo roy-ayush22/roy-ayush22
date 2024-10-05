@@ -1,5 +1,5 @@
 # Hello and Welcome 👋, I'm Ayush Roy
-I am from Maharaja Surajmal Institute of Technology enrolled in B.Tech Electronics Engineering🏫
+I am from Maharaja Surajmal Institute of Technology enrolled in B.Tech Electronics Engineering🏫 </br>
 I have a huge instrest in web development and in coding👩‍💻! Currently learning JavaScript📜
 
 ## I'm a Student, Web Developer
