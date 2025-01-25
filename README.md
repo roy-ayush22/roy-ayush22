@@ -17,6 +17,3 @@ Currently learning **JavaScript** 📜 and building my skills in **open source**
 - 🔭 Exploring open source projects and contributing  
 - 📖 Enhancing my knowledge of **JavaScript** and **React**  
 - 🌐 Building small projects to improve my skills
----
-
-⭐️ **Feel free to check out my repositories!**  
