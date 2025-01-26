@@ -1,6 +1,6 @@
 # Hello and Welcome 👋, I'm Ayush Roy
 
-I am a **B.Tech Electronics Engineering** student at Maharaja Surajmal Institute of Technology 🏫.  
+I am a **B.Tech Engineering** student at Maharaja Surajmal Institute of Technology 🏫.  
 I have a strong interest in **web development** and **coding** 👩‍💻.  
 Currently learning **JavaScript** 📜 and building my skills in **open source** 🌟.  
 
