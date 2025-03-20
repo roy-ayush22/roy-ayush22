@@ -8,7 +8,7 @@ Currently learning **TypeScript** 📜 and building my skills in **open source**
 
 ## 🛠️ Skills & Tools
 - **Languages:** HTML, CSS, JavaScript, Python, React, Tailwind CSS
-- **Technologies:** Git, Google Cloud, Microsoft Workplace, Express, MongoDb
+- **Technologies:** Git, Google Cloud, Microsoft Workplace, Express, MongoDB
 - **Interests:** Web Development, Generative AI, Open Source Contributions, Machine Learning  
 
 ---
