@@ -69,9 +69,3 @@
 
 [![X (Twitter)](https://img.shields.io/badge/@its22ayush-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/its22ayush)
 [![GitHub](https://img.shields.io/badge/roy--ayush22-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roy-ayush22)
-
----
-
-<p align="center">
-  <i>"Learning in public, building in the open."</i>
-</p>
