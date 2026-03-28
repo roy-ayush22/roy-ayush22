@@ -31,30 +31,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-/*
-## 🚀 Projects
-
-| Project | Description | Stack |
-|--------|-------------|-------|
-| [🌤️ Weather App](https://github.com/roy-ayush22/weather-app) | Full-stack weather app — React/Tailwind frontend, Express TypeScript backend proxying OpenWeatherMap | React, TypeScript, Tailwind, Express |
-| [🔐 Forge](https://github.com/roy-ayush22/forge) | HD wallet generator for Solana and Ethereum using BIP39 mnemonics and BIP44 derivation | React 19, Vite, Solana web3.js, ethers v6 |
-| [🎬 Movie Explorer](https://github.com/roy-ayush22/movie-explorer) | Browse movies by genre, manage watchlist and favorites via the TMDB API | Node.js, Express v5, Vanilla JS |
-| [💬 Echo](https://github.com/roy-ayush22/echo) | Real-time WebSocket chat server with rooms, typing indicators, and message history (frontend in progress) | Node.js, ws, TypeScript, React |
-| [🖥️ Screen Time Tracker](https://github.com/roy-ayush22/screen-time-tracker) | Linux daemon that tracks active window focus using X11, stores data in SQLite, runs as a systemd service | Python, psutil, python-xlib, SQLite |
-| [📖 Word Meaning Finder](https://github.com/roy-ayush22/word-meaning-finder) | Chrome extension (MV3) — select any word on a page to get its definition via right-click or popup | Vanilla JS, Chrome Extensions API |
-| [🌮 Little Taco Shop](https://github.com/roy-ayush22/project-tacoshop) | Multi-page restaurant site with a Node.js backend | HTML, CSS, JS, Node.js |
-
 ---
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=roy-ayush22&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-ayush22&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-*\
----
-
 
 ## 🌱 Currently Working On
 
@@ -69,3 +46,9 @@
 
 [![X (Twitter)](https://img.shields.io/badge/@its22ayush-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/its22ayush)
 [![GitHub](https://img.shields.io/badge/roy--ayush22-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/roy-ayush22)
+
+---
+
+<p align="center">
+  <i>"Learning in public, building in the open."</i>
+</p>
