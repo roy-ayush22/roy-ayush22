@@ -31,8 +31,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
----
-
+/*
 ## 🚀 Projects
 
 | Project | Description | Stack |
@@ -53,8 +52,9 @@
   <img src="https://github-readme-stats.vercel.app/api?username=roy-ayush22&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roy-ayush22&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
-
+*\
 ---
+
 
 ## 🌱 Currently Working On
 
